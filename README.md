@@ -71,17 +71,31 @@ I'm a lifelong learner who enjoys staying up to date with new technologies and t
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect With Me
 
-<p>
-  <a href="https://x.com/only__1kizzy">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" />
+<p align="left">
+  <a href="https://x.com/only__1kizzy" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" height="30" />
   </a>
-  <a href="https://www.linkedin.com/in/okwara-kizito-chigozirim-31b0a5217/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/okwara-kizito-chigozirim-31b0a5217/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" />
   </a>
+  &nbsp;
   <a href="mailto:chigokizzy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/_gozirim_25" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://tiktok.com/@gozirim__" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/TikTok_logo.svg" width="30" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://facebook.com/https://facebook.com/gozirim25" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30" />
   </a>
 </p>
 
