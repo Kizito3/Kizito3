@@ -23,21 +23,28 @@ I'm a lifelong learner who enjoys staying up to date with new technologies and t
 
 ---
 
-
 ## 🧰 Tech Stack
-<p>
-  <img src="https://www.svgrepo.com/show/452092/react.svg" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-%23181818.svg?style=flat&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn/UI-%2320232a.svg?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="30" height="30"/>
 </p>
 
 ---
 
 ## 🔧 Projects & Highlights
+
 - 🔐 **Monetized voting platform** – Smooth UI, excellent dashboard and realtime voting  
 - 📚 **E-Library System** – Borrow/download PDFs, QR code support, PHPMailer integration  
 - 📊 **Internal Audit Tool** – Built for a gadget store; track sales, calculate profit, export monthly PDFs  
@@ -46,14 +53,16 @@ I'm a lifelong learner who enjoys staying up to date with new technologies and t
 ---
 
 ## 🌱 Currently Learning
-- 🟩 **Node.js** — backend moves incoming
-- 🧠 Advanced React patterns
-- 📦 Better app architecture & state management
+
+- 🟩 **Node.js** — backend moves incoming  
+- 🧠 Advanced React patterns  
+- 📦 Better app architecture & state management  
 - 📽️ Content creation around tech + dev life
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kizito3&show_icons=true&theme=default" alt="Kizito's GitHub stats" />
   <br/>
@@ -63,6 +72,7 @@ I'm a lifelong learner who enjoys staying up to date with new technologies and t
 ---
 
 ## 📫 Let’s Connect
+
 <p>
   <a href="https://x.com/only__1kizzy">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" />
