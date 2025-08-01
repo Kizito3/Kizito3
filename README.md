@@ -87,11 +87,11 @@ I'm a lifelong learner who enjoys staying up to date with new technologies and t
   </a>
   &nbsp;
   <a href="https://instagram.com/_gozirim_25" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" height="30" />
+    <img src="https://images.icon-icons.com/1584/PNG/512/3721672-instagram_108066.png" width="30" height="30" />
   </a>
   &nbsp;
   <a href="https://tiktok.com/@gozirim__" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/TikTok_logo.svg" width="30" height="30" />
+    <img src="https://imgs.search.brave.com/XXvRUrRbJLwpK-q3NFOMTzLJstCHsg0BUV5aXHtuSSw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8zNjIxLzM2MjE0/NTAucG5nP3NlbXQ9/YWlzX3doaXRlX2xh/YmVs" width="30" height="30" />
   </a>
   &nbsp;
   <a href="https://facebook.com/https://facebook.com/gozirim25" target="_blank">
